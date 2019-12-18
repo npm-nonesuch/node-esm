@@ -1,0 +1,19 @@
+{
+  "name": "@nonesuch/node-esm",
+  "version": "0.0.1",
+  "description": "test Node.js ESM use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm-nonesuch/node-esm.git"
+  },
+  "author": "Ryan Johnson <rhino.citguy@gmail.com> (http://citguy.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/npm-nonesuch/node-esm/issues"
+  },
+  "homepage": "https://github.com/npm-nonesuch/node-esm#readme"
+}
